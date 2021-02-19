@@ -29,7 +29,6 @@ Polymer({
   _template: html`
     <style>
       :host {
-        outline: none;
         user-select: none;
         cursor: pointer;
         color: var(--disabled-text-color);
